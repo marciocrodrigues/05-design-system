@@ -1,0 +1,2 @@
+Incluir story book
+npx sb init --builder @storybook/builder-vite --type react --use-npm
